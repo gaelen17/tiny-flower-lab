@@ -10,6 +10,7 @@
 
   <!-- Le conteneur vide qui attend d'être rempli par le JS -->
   <div id="grid-container"></div>
+<script src="script.js"></script>
 
 
 </body>
