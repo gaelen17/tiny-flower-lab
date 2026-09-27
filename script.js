@@ -1,5 +1,4 @@
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function() {
       
       const svgNS = "http://www.w3.org/2000/svg";
       const container = document.getElementById('grid-container');
@@ -110,4 +109,3 @@
         });
       }
     });
-  </script>
